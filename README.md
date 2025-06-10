@@ -4,10 +4,13 @@ USAGE:
 1. Set timecode of camera to free run time of day timecode
 2. Open InterviewLogger on browser
 3. Enter name of interviewee's in top textbox
-4. Use shortcuts to make marks: + for good, - for bad, * for great
-5. Type notes for manual marks
-6. Export to csv
-7. Convert using editingtool site using following settings: <br>
+4. Use shortcuts to make marks:<br>
+   "+" for good (green marker)<br>
+   "-" for bad (red marker)<br>
+   "*" for great (yellow marker)<br>
+6. Type notes for manual marks (blue marker)
+7. Export to csv
+8. Convert using editingtool site using following settings: <br>
     convert from csv<br>
     conver to premiere pro XML<br>
     Set the framerate you used in camera<br>
