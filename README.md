@@ -43,5 +43,5 @@
 <ul>
   <li>It may work with other editing software, but this hasn’t been tested.</li>
   <li>The app is mobile-friendly — keyboard shortcuts automatically change into on-screen buttons.</li>
-  <li>Since it’s a self-hosted HTML app, it will also work offline.</li>
+  <li>Since it’s a self-hosted HTML app, it works offline.</li>
 </ul>
