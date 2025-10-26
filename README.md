@@ -1,4 +1,8 @@
-InterviewLogger is an HTML based app for logging video interviews with timecode, capable of exportinging those logs as markings into premiere pro synced with the video file
+<b>InterviewLogger is an HTML based app for logging video interviews with timecode, capable of exportinging those logs as markings into premiere pro synced with the video file</b>
+
+
+<img width="1911" height="1060" alt="logger2" src="https://github.com/user-attachments/assets/0c0f4b3f-290c-4c17-9063-d622a4c95ac6" />
+
 
 USAGE: 
 1. Set timecode of camera to free run time of day timecode
@@ -10,10 +14,16 @@ USAGE:
    "*" for great (yellow marker)<br>
 6. Type notes for manual marks (blue marker)
 7. Export to csv
-8. Convert using editingtool site using following settings: <br>
-    convert from csv<br>
-    conver to premiere pro XML<br>
-    Set the framerate you used in camera<br>
-    Press export, then download the XML<br>
-9. Import xml into premiere pro
-10. Set video footage to timecode on timeline created by xml
+8. Convert using editingtool site using following settings:
+   
+<img width="704" height="208" alt="marker" src="https://github.com/user-attachments/assets/6d410bb2-4f81-4f35-9a56-0f82ae26b7b6" />
+
+   - convert from csv<br>
+   - conver to premiere pro XML<br>
+   - Set the framerate you used in camera<br>
+   - Press Generate, then download the XML<br>
+     (Optional) in more options set start time to start timecode of your video file
+10. Import xml into Premiere Pro
+11. Set video footage to timecode on timeline created by xml<br>
+<img width="427" height="300" alt="snip" src="https://github.com/user-attachments/assets/c0757f4b-5a54-410b-9007-8c0751ec6b89" />
+
