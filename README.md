@@ -1,4 +1,4 @@
-InterviewLogger is an HTML based app for logging video interviews with timecode capable of exportinging marking into premiere pro on timecode
+InterviewLogger is an HTML based app for logging video interviews with timecode, capable of exportinging those logs as markings into premiere pro synced with the video file
 
 USAGE: 
 1. Set timecode of camera to free run time of day timecode
