@@ -39,3 +39,9 @@
 </ol>
 
 <img width="427" height="300" alt="Premiere Pro timecode sync" src="https://github.com/user-attachments/assets/c0757f4b-5a54-410b-9007-8c0751ec6b89" />
+<h2>Extra Info</h2>
+<ul>
+  <li>It may work with other editing software, but this hasn’t been tested.</li>
+  <li>The app is mobile-friendly — keyboard shortcuts automatically change into on-screen buttons.</li>
+  <li>Since it’s a self-hosted HTML app, it will also work offline.</li>
+</ul>
