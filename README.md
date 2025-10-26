@@ -2,7 +2,7 @@
 <p><b>InterviewLogger</b> is an HTML-based app for logging video interviews with timecode. It can export those logs as markers for Premiere Pro, synced with your video file.</p>
 
 <h1>Why</h1>
-<p><b>It saves you time</b> by letting you quickly mark where the best quotes are—so you don’t have to rewatch the entire interview.</p>
+<p><b>It saves you time</b> by letting you quickly see where the best quotes are, so you don’t have to rewatch the entire interview.</p>
 
 <br>
 
