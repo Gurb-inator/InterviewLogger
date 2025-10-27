@@ -17,7 +17,7 @@
     &nbsp;&nbsp;+ → Good (green marker)<br>
     &nbsp;&nbsp;- → Bad (red marker)<br>
     &nbsp;&nbsp;* → Great (yellow marker)<br>
-    &nbsp;&nbsp;Type a note → Custom (blue marker)
+    &nbsp;&nbsp;Type a note → Custom (blue marker) <br>
     &nbsp;&nbsp;Double click notes to edit them
   </li>
   <li>Export your log to a CSV file.</li>
