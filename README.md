@@ -18,6 +18,7 @@
     &nbsp;&nbsp;- → Bad (red marker)<br>
     &nbsp;&nbsp;* → Great (yellow marker)<br>
     &nbsp;&nbsp;Type a note → Custom (blue marker)
+    &nbsp;&nbsp;Double click notes to edit them
   </li>
   <li>Export your log to a CSV file.</li>
   <li>Convert the CSV to a Premiere Pro XML using the <a href="https://editingtools.io/marker/" target="_blank">Editing Tools Marker Converter</a> with the following settings:</li>
@@ -41,7 +42,7 @@
 <img width="427" height="300" alt="Premiere Pro timecode sync" src="https://github.com/user-attachments/assets/c0757f4b-5a54-410b-9007-8c0751ec6b89" />
 <h2>Extra Info</h2>
 <ul>
-  <li>It may work with other editing software, but this hasn’t been tested.</li>
+  <li>It may work with other editing software, but this hasn’t been tested, if you test this and it works, let me know</li>
   <li>The app is mobile-friendly — keyboard shortcuts automatically change into on-screen buttons.</li>
   <li>Since it’s a self-hosted HTML app, it works offline.</li>
 </ul>
